@@ -8,12 +8,13 @@
 
 
 <h2 align="center">💬 Github stats</h2>
-
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=cadot-info&show_icons=true&align=center)
-
+<p align="center" float="center">
+  
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=cadot-info&show_icons=true)
+</p>
 
 <h2 align="center"> 🔭 Tools of Trade</h2>
-
+  
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -30,8 +31,8 @@
 ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
-    
-<p align="center">
+</p>    
+
 
 <h2  align="center">📫 Reach me on</h2>
 <p align="center">
